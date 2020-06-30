@@ -1,0 +1,10 @@
+sure to read : echo "# fatimacoeg" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/FatimaCoeg/fatimacoeg.git
+git push -u origin master
+                or less : https://www.fatima.eu.org
+                or less : https://www.chisacoeg.site
+                
+                we are coeg project*
